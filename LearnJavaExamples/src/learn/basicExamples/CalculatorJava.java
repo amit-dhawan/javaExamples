@@ -1,6 +1,5 @@
 package learn.basicExamples;
 
-import learn.basicfunctions.CalcFunctions;
 
 public class CalculatorJava {
 

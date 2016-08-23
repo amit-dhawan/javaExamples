@@ -1,4 +1,4 @@
-package learn.basicfunctions;
+package learn.basicExamples;
 
 public class CalcFunctions {
 
