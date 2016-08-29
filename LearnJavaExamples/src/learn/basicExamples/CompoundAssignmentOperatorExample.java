@@ -18,7 +18,9 @@ public class CompoundAssignmentOperatorExample {
 		a += 5;
 		b *= 4;
 		c += a * b;
-		c %= 6; 
+		c %= 6;
+		// c = 3
+		c-=1;
 		System.out.println("a = " + a);
 		System.out.println("b = " + b);
 		System.out.println("c = " + c);
